@@ -1,4 +1,4 @@
-# MyReads
+# ⚡MyReads⚡
 
 ---
 
@@ -21,10 +21,17 @@ npm start
 
 ## How to Use the App
 There is three shelves (Currently Reading, Want To Read, Read).
+<br>
 You can change the shelf of the book as you want.
+<br>
 You can add new book with add button in the bottom right of the page.
+<br>
 
-![alt text](./src/icons/01)
+![alt text](./src/icons/01.png)
+![alt text](./src/icons/02.png)
+![alt text](./src/icons/03.png)
+![alt text](./src/icons/04.png)
+![alt text](./src/icons/05.png)
 
 
 ### Resources and Documentation:
